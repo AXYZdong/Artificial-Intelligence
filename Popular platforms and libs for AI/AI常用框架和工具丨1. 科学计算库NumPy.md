@@ -5,7 +5,9 @@
 
 ## 环境说明
 >**操作系统：Windows 10** 
+>\
 > **Python 版本为：Python 3.8.8**	
+> \
 > **numpy 版本为：1.21.4**
 
 ## 一、NumPy简介
@@ -29,7 +31,7 @@ Numpy数组要求元素具有相同的数据类型，避免了类型检查。
 NumPy中核心对象为数组，即ndarray，它描述了相同类型元素的集合。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f1b5e57cdb9d4e81b8bd4bee4cd9b008.png#pic_center)
-<center> ▲ ndarray 的内部结构  </center>
+  <p align="center">▲ ndarray 的内部结构 </p>
 
 - 数组的索引从 0 开始计数；
 - 数组中元素类型相同，占用的存储空间相同；
