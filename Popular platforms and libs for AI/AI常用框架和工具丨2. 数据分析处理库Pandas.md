@@ -7,7 +7,9 @@
 
 ## 环境说明
 >**操作系统：Windows 10** 
+>\
 > **Python 版本为：Python 3.8.8**	
+> \
 > **pandas 版本为：1.4.1**
 
 ## 一、Pandas简介
