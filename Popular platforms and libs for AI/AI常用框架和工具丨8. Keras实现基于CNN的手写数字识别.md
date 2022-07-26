@@ -1,3 +1,5 @@
+<font color=red><b>深度学习框架Keras实现基于CNN的手写数字识别。理论知识结合代码实例，希望对您有所帮助。</b>
+  
 ## 环境说明
 >**操作系统：Windows 10** 
 > \
@@ -224,7 +226,7 @@ plt.show()
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/eb9f458297474af0a02a735350b8bc08.png#pic_center)
 <p align="center">▲ 批量识别图像展示</p>
 
-<center><strong>—— END ——</strong></center>
+<p align="center"><strong>—— END ——</strong></center>
 
 
 
