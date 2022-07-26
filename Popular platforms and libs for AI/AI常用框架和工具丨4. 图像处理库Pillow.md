@@ -1,4 +1,4 @@
-<font color=red><b>图像处理库Pillow，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。
+<font color=red><b>图像处理库Pillow，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。</b>
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b66d02d3f8e247329c4b99b0cc5b6d38.png#pic_center)
 
