@@ -1,4 +1,4 @@
-<font color=red><b>图像处理库Scikit-image，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。
+<font color=red><b>图像处理库Scikit-image，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。</b>
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d9fe9cd0182c4fdb8cf68df211b15f04.png#pic_center)
 
