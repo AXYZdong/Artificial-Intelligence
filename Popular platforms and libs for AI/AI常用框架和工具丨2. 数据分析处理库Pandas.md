@@ -1,4 +1,4 @@
-数据分析处理库Pandas，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。
+<b>数据分析处理库Pandas，AI常用框架和工具之一。</b>
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/964bad29e199477198e9c967c2e2edac.png#pic_center)
 
@@ -473,7 +473,7 @@ print(df3)
 - [2] https://blog.csdn.net/lemonbit/article/details/106964657
 
 
-<center><strong>—— END ——</strong></center>
+<p align="center"><strong>—— END ——</strong></center>
 
 
 
