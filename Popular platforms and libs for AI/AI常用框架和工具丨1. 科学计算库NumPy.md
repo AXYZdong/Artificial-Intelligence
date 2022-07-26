@@ -1,4 +1,5 @@
-科学计算库NumPy，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。
+<b>科学计算库NumPy，AI常用框架和工具之一。</b>
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b6f117e138b74e438535f0b55c1d94b4.png)
 
 
@@ -523,5 +524,5 @@ e= 4.5
 - [3] https://blog.csdn.net/qq_43212169/article/details/101679293
 
 
-<center><strong>—— END ——</strong></center>
+<p align="center"><strong>—— END ——</strong></center>
 
