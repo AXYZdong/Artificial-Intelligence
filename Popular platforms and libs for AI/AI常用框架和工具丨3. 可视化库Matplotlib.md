@@ -1,4 +1,4 @@
-<font color=red><b>可视化库Matplotlib，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。</b>
+<font color=red><b>可视化库Matplotlib，AI常用框架和工具之一。</b>
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/0f76b08f7a18437eb902f81568645ce5.png#pic_center)
 
