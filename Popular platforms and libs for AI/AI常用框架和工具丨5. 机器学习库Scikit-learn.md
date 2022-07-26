@@ -1,4 +1,4 @@
-机器学习库Scikit-learn，AI常用框架和工具之一。理论知识结合代码实例，希望对您有所帮助。
+<b>机器学习库Scikit-learn，AI常用框架和工具之一。</b>
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/da6d448b03014029b1b1dfe8132a8fcc.png#pic_center)
@@ -334,4 +334,4 @@ from sklearn.externals import joblibestimator = joblib.load('model.pkl')
 - [2] https://scikit-learn.org.cn/
 - [3] https://blog.csdn.net/lian740930980/article/details/114124167
 
-<center><strong>—— END ——</strong></center>
+<p align="center"><strong>—— END ——</strong></center>
