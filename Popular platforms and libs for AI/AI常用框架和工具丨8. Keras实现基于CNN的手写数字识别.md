@@ -1,4 +1,4 @@
-<font color=red><b>深度学习框架Keras实现基于CNN的手写数字识别。理论知识结合代码实例，希望对您有所帮助。</b>
+<font color=red><b>深度学习框架Keras实现基于CNN的手写数字识别。</b>
   
 ## 环境说明
 >**操作系统：Windows 10** 
