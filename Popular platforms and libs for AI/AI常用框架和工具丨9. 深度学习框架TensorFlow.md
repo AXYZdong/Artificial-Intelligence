@@ -1,4 +1,4 @@
-<font color=red><b>深度学习框架TensorFlow，AI常用框架和工具之一。理论知识结合代码实例。</b>
+<font color=red><b>深度学习框架TensorFlow，AI常用框架和工具之一。</b>
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/231575b28cd844ba8e428702b650abf4.png)
 
