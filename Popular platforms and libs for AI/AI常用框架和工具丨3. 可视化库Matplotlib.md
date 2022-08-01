@@ -52,9 +52,10 @@ sudo yum install python-matplotlib
 
 
 ## 三、Matplotlib图像结构
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/18f2d567324b455ea6ee9f7928facac1.png#pic_center)
 
-     <p align="center">      Matplotlib 图的组成部分       </p>
+<p align="center"> ▲ Matplotlib 图的组成部分 </p>
 
 ## 四、Matplotlib基本操作流程
 
@@ -98,7 +99,7 @@ plt.bar(x, y, width=1, edgecolor="white", linewidth=0.7)
 plt.show()
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/6eff5af19a4a4648a799bb6a6d0114f2.png#pic_center)
-     <p align="center">      生成的柱形图       </center>
+     <p align="center">      ▲ 生成的柱形图       </center>
 
 
 - 折线图
@@ -113,7 +114,7 @@ plt.show() # 显示
 ```
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/55c3352753e946ef9a96e85127c8b723.png#pic_center)
-     <p align="center">      生成的折线图       </center>
+     <p align="center">      ▲ 生成的折线图       </center>
 
 - 饼图
 
@@ -134,7 +135,7 @@ plt.show()
 ```
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/6ba2f91e98ae44fab8f6ffeb0ec3fcc0.png#pic_center)
-     <p align="center">      生成的饼状图       </center>
+     <p align="center">      ▲ 生成的饼状图       </center>
 
 
 - 散点图
@@ -157,7 +158,7 @@ plt.show()
 ```
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5e8f19446e4a4bd5a848785eb116d1ee.png#pic_center)
-     <p align="center">      生成的散点图       </center>
+     <p align="center">      ▲ 生成的散点图       </center>
 
 ## 六、Matplotlib格式化字符
 
