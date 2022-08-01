@@ -44,11 +44,11 @@ TensorFlow 是一个端到端开源机器学习平台。它拥有一个全面而
 
 ## 二、TensorFlow基础知识
 ### 2.1 TensorFlow组成
-![在这里插入图片描述](https://img-blog.csdnimg.cn/cf323e2e3e3d4ea193ccc5de95606774.png#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/cf323e2e3e3d4ea193ccc5de95606774.png)
 <p align="center">▲ Tensor + Flow </p>
 
 ### 2.2 TensorFlow计算过程
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9c796bdc95ba40b599829d92d501948e.gif#pic_center =400x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/9c796bdc95ba40b599829d92d501948e.gif)
 <p align="center">▲ 计算图实例</p>
 
 ### 2.3 TensorFlow基本概念
@@ -62,7 +62,7 @@ TensorFlow 是一个端到端开源机器学习平台。它拥有一个全面而
 ## 三、TensorFlow搭建神经网络
 ### 3.1 TensorFlow开发流程
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/5c97f3a8fe464f9cac0eb89954612735.png#pic_center =500x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/5c97f3a8fe464f9cac0eb89954612735.png)
 <p align="center">▲ 开发流程图</p>
 
 ### 3.2 TensorFlow神经网络搭建
