@@ -87,7 +87,9 @@ img.show()
 原始图像是否被修改 False
 原始图像名称是否正确 True
 ```
+ 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/bbf3e21d8f9c4ec793dac8a2e020ef1b.png#pic_center)
+ 
 <p align="center">▲ size前后图片对比 </p>
 
 
@@ -122,7 +124,9 @@ plt.subplot(2, 2, 4)
 imshow(checkerboard)
 plt.show()
 ```
+ 
 运行结果
+ 
 - 图片数据
 
 ```python
@@ -177,7 +181,9 @@ plt.show()
   [118  42  72]]]
 ```
 - 本地图片和内置图片展示
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2d3843663e504eb8a2b57e3dd786170a.png#pic_center)
+ 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2d3843663e504eb8a2b57e3dd786170a.png)
+ 
 <p align="center">▲ 本地图片和内置图片展示 </p>
 
 ### 2.3 color模块
@@ -212,10 +218,13 @@ plt.show()
 img_gray = rgb2gray(img)  # 计算RGB图像的亮度
 print(img_gray)
 ```
+ 
 运行结果
 
 - RGB和HSV图片对比
-![在这里插入图片描述](https://img-blog.csdnimg.cn/ea81713bfe8b429798eba02217193916.png#pic_center)
+ 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/ea81713bfe8b429798eba02217193916.png)
+ 
 <p align="center">▲ RGB和HSV图片对比 </p>
 
 
@@ -270,8 +279,10 @@ plt.title('median')
 plt.show()
 ```
 运行结果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/e30f3502af124900b67ad9f712398774.png#pic_center)
+ 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e30f3502af124900b67ad9f712398774.png)
 <p align="center">▲ 高斯滤波和局部中值的滤镜图像 </p>
+ 
 **边缘检测**
 
 ```python
