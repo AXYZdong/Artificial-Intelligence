@@ -1,4 +1,4 @@
-<font color=red><b>深度学习框架Keras，AI常用框架和工具之一。理论知识结合代码实例。</b>
+<font color=red><b>深度学习框架Keras，AI常用框架和工具之一。</b>
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/0523ebc1214f4eec94c86265d555bfa8.png#pic_center)
 
